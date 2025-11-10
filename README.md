@@ -4,6 +4,8 @@
 
 A modern, scalable application built with React, FastAPI, and Tailwind CSS for professional e-commerce photography workflows.
 
+<img width="1245" height="1274" alt="image" src="https://github.com/user-attachments/assets/9ae8ae7e-c5ec-4468-809d-8da32da3cb96" />
+
 ## 🏗️ Architecture
 
 ### Frontend (React + Tailwind CSS)
