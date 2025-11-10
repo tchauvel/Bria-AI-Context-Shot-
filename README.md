@@ -1,4 +1,4 @@
-# 📸 ContextShot - Modern Tech Stack
+# 📸 ContextShot 
 
 **Smart Product Photography with AI-Generated Contextual Backgrounds**
 
@@ -260,10 +260,5 @@ python main.py       # Start development server
 - **File type validation** for uploads
 - **Error handling** without sensitive data exposure
 
-## 📞 Support
-
-For questions about ContextShot or to discuss integration opportunities, please contact the development team.
-
----
 
 **ContextShot** - Transforming e-commerce photography with modern AI intelligence.
